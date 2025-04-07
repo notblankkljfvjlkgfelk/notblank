@@ -1,0 +1,81 @@
+body {
+    background-color: #23272a;
+    font-family: monospace;
+  }
+  hr {
+    border: 1px solid #C4C4C4;
+  }
+  #header {
+    color: #FFFDD0;
+    text-align: center;
+  }
+  #header-desc {
+    text-align: center;
+    color: #FFFDD0;
+  }
+  #history-div {
+    text-align: center;
+    width: 600px;
+    margin: auto;
+    height: 205px;
+  }
+  #history-heading {
+    color: #FFFDD0;
+    font-size: 15px;
+  }
+  #history-desc {
+    color: #FFFDD0;
+  }
+  #utopia-link {
+    color: #FF9001;
+    text-decoration: none;
+  }
+  #history-button {
+    background-color: #FF9001;
+    border: none;
+    border-radius: 8px;
+  }
+  #history-drag {
+    color: #FFFDD0;
+    text-decoration: none;
+    font-family: monospace;
+    font-size: 15px;
+  }
+  #history-code {
+    color: #FF9001;
+    text-decoration: none;
+  }
+  #ad-div {
+    height: 205px;
+    width: 600px;
+    overflow: scroll;
+    text-align: center;
+    margin: auto;
+  }
+  #sidebar-wrap {
+    color: #FF9001;
+    cursor: pointer;
+    font-size: 25px;
+  }
+  #ad-heading {
+    color: #FFFDD0;
+    text-align: center;
+    font-size: 15px;
+  }
+  #ad-desc{
+    color: #FFFDD0;
+  }
+  #ad-button {
+    background-color: #FF9001;
+    border: none;
+    border-radius: 8px;
+  }
+  #ad-drag {
+    color: #FFFDD0;
+    text-decoration: none;
+    font-family: monospace;
+    font-size: 15px;
+  }
+  #ad-rmv-code {
+    color: #FF9001;
+  }
